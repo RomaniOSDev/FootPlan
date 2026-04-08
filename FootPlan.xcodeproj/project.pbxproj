@@ -3,33 +3,67 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 60;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		746A236C2F863F9D0076A047 /* AppLinks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23432F863F9D0076A047 /* AppLinks.swift */; };
+		746A236D2F863F9D0076A047 /* FormattingHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23442F863F9D0076A047 /* FormattingHelpers.swift */; };
+		746A236E2F863F9D0076A047 /* FootPlanModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23462F863F9D0076A047 /* FootPlanModels.swift */; };
+		746A236F2F863F9D0076A047 /* FootPlanViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23482F863F9D0076A047 /* FootPlanViewModel.swift */; };
+		746A23702F863F9D0076A047 /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A234A2F863F9D0076A047 /* CalendarView.swift */; };
+		746A23712F863F9D0076A047 /* DesignSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A234C2F863F9D0076A047 /* DesignSystem.swift */; };
+		746A23722F863F9D0076A047 /* StatAndMatchComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A234D2F863F9D0076A047 /* StatAndMatchComponents.swift */; };
+		746A23732F863F9D0076A047 /* TagsAndTeamComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A234E2F863F9D0076A047 /* TagsAndTeamComponents.swift */; };
+		746A23742F863F9D0076A047 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23502F863F9D0076A047 /* HomeView.swift */; };
+		746A23752F863F9D0076A047 /* AddMatchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23522F863F9D0076A047 /* AddMatchView.swift */; };
+		746A23762F863F9D0076A047 /* MatchDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23532F863F9D0076A047 /* MatchDetailView.swift */; };
+		746A23772F863F9D0076A047 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23552F863F9D0076A047 /* OnboardingView.swift */; };
+		746A23782F863F9D0076A047 /* ScheduleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23572F863F9D0076A047 /* ScheduleView.swift */; };
+		746A23792F863F9D0076A047 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23592F863F9D0076A047 /* SettingsView.swift */; };
+		746A237A2F863F9D0076A047 /* HeadToHeadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A235B2F863F9D0076A047 /* HeadToHeadView.swift */; };
+		746A237B2F863F9D0076A047 /* PlayersStatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A235C2F863F9D0076A047 /* PlayersStatsView.swift */; };
+		746A237C2F863F9D0076A047 /* FavoriteTeamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A235E2F863F9D0076A047 /* FavoriteTeamView.swift */; };
+		746A237D2F863F9D0076A047 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23612F863F9D0076A047 /* AppDelegate.swift */; };
+		746A237E2F863F9D0076A047 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23632F863F9D0076A047 /* ContentView.swift */; };
+		746A237F2F863F9D0076A047 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A23692F863F9D0076A047 /* SceneDelegate.swift */; };
+		746A23802F863F9D0076A047 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A236A2F863F9D0076A047 /* ViewController.swift */; };
+		746A23812F863F9D0076A047 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 746A23622F863F9D0076A047 /* Assets.xcassets */; };
+		746A23832F863F9D0076A047 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 746A23662F863F9D0076A047 /* LaunchScreen.storyboard */; };
+		746A23842F863F9D0076A047 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 746A23682F863F9D0076A047 /* Main.storyboard */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		6697DAA25BAC1957B0707396 /* Pods-FootPlan.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FootPlan.release.xcconfig"; path = "Target Support Files/Pods-FootPlan/Pods-FootPlan.release.xcconfig"; sourceTree = "<group>"; };
 		744B28C32F7BAF0800F2A8EB /* FootPlan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FootPlan.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		746A23432F863F9D0076A047 /* AppLinks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppLinks.swift; sourceTree = "<group>"; };
+		746A23442F863F9D0076A047 /* FormattingHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormattingHelpers.swift; sourceTree = "<group>"; };
+		746A23462F863F9D0076A047 /* FootPlanModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootPlanModels.swift; sourceTree = "<group>"; };
+		746A23482F863F9D0076A047 /* FootPlanViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootPlanViewModel.swift; sourceTree = "<group>"; };
+		746A234A2F863F9D0076A047 /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
+		746A234C2F863F9D0076A047 /* DesignSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignSystem.swift; sourceTree = "<group>"; };
+		746A234D2F863F9D0076A047 /* StatAndMatchComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatAndMatchComponents.swift; sourceTree = "<group>"; };
+		746A234E2F863F9D0076A047 /* TagsAndTeamComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagsAndTeamComponents.swift; sourceTree = "<group>"; };
+		746A23502F863F9D0076A047 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		746A23522F863F9D0076A047 /* AddMatchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddMatchView.swift; sourceTree = "<group>"; };
+		746A23532F863F9D0076A047 /* MatchDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchDetailView.swift; sourceTree = "<group>"; };
+		746A23552F863F9D0076A047 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		746A23572F863F9D0076A047 /* ScheduleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleView.swift; sourceTree = "<group>"; };
+		746A23592F863F9D0076A047 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		746A235B2F863F9D0076A047 /* HeadToHeadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadToHeadView.swift; sourceTree = "<group>"; };
+		746A235C2F863F9D0076A047 /* PlayersStatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayersStatsView.swift; sourceTree = "<group>"; };
+		746A235E2F863F9D0076A047 /* FavoriteTeamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteTeamView.swift; sourceTree = "<group>"; };
+		746A23612F863F9D0076A047 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		746A23622F863F9D0076A047 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		746A23632F863F9D0076A047 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		746A23642F863F9D0076A047 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		746A23652F863F9D0076A047 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		746A23672F863F9D0076A047 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		746A23692F863F9D0076A047 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		746A236A2F863F9D0076A047 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		90D685C68C60724F3BD2D757 /* Pods-FootPlan.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FootPlan.debug.xcconfig"; path = "Target Support Files/Pods-FootPlan/Pods-FootPlan.debug.xcconfig"; sourceTree = "<group>"; };
+		FD9D0C2CD3F96A6C0615E482 /* Pods_FootPlan.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FootPlan.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		744B28D52F7BAF0A00F2A8EB /* Exceptions for "FootPlan" folder in "FootPlan" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 744B28C22F7BAF0800F2A8EB /* FootPlan */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		744B28C52F7BAF0800F2A8EB /* FootPlan */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				744B28D52F7BAF0A00F2A8EB /* Exceptions for "FootPlan" folder in "FootPlan" target */,
-			);
-			path = FootPlan;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		744B28C02F7BAF0800F2A8EB /* Frameworks */ = {
@@ -45,8 +79,10 @@
 		744B28BA2F7BAF0800F2A8EB = {
 			isa = PBXGroup;
 			children = (
-				744B28C52F7BAF0800F2A8EB /* FootPlan */,
+				746A236B2F863F9D0076A047 /* FootPlan */,
 				744B28C42F7BAF0800F2A8EB /* Products */,
+				B8D140BB78C8CED31BAAFF44 /* Pods */,
+				DA772D2F6BFE7F30A83C850F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,6 +94,159 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		746A23452F863F9D0076A047 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				746A23432F863F9D0076A047 /* AppLinks.swift */,
+				746A23442F863F9D0076A047 /* FormattingHelpers.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		746A23472F863F9D0076A047 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				746A23462F863F9D0076A047 /* FootPlanModels.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		746A23492F863F9D0076A047 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				746A23482F863F9D0076A047 /* FootPlanViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		746A234B2F863F9D0076A047 /* Calendar */ = {
+			isa = PBXGroup;
+			children = (
+				746A234A2F863F9D0076A047 /* CalendarView.swift */,
+			);
+			path = Calendar;
+			sourceTree = "<group>";
+		};
+		746A234F2F863F9D0076A047 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				746A234C2F863F9D0076A047 /* DesignSystem.swift */,
+				746A234D2F863F9D0076A047 /* StatAndMatchComponents.swift */,
+				746A234E2F863F9D0076A047 /* TagsAndTeamComponents.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		746A23512F863F9D0076A047 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				746A23502F863F9D0076A047 /* HomeView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		746A23542F863F9D0076A047 /* Matches */ = {
+			isa = PBXGroup;
+			children = (
+				746A23522F863F9D0076A047 /* AddMatchView.swift */,
+				746A23532F863F9D0076A047 /* MatchDetailView.swift */,
+			);
+			path = Matches;
+			sourceTree = "<group>";
+		};
+		746A23562F863F9D0076A047 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				746A23552F863F9D0076A047 /* OnboardingView.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		746A23582F863F9D0076A047 /* Schedule */ = {
+			isa = PBXGroup;
+			children = (
+				746A23572F863F9D0076A047 /* ScheduleView.swift */,
+			);
+			path = Schedule;
+			sourceTree = "<group>";
+		};
+		746A235A2F863F9D0076A047 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				746A23592F863F9D0076A047 /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		746A235D2F863F9D0076A047 /* Stats */ = {
+			isa = PBXGroup;
+			children = (
+				746A235B2F863F9D0076A047 /* HeadToHeadView.swift */,
+				746A235C2F863F9D0076A047 /* PlayersStatsView.swift */,
+			);
+			path = Stats;
+			sourceTree = "<group>";
+		};
+		746A235F2F863F9D0076A047 /* Team */ = {
+			isa = PBXGroup;
+			children = (
+				746A235E2F863F9D0076A047 /* FavoriteTeamView.swift */,
+			);
+			path = Team;
+			sourceTree = "<group>";
+		};
+		746A23602F863F9D0076A047 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				746A234B2F863F9D0076A047 /* Calendar */,
+				746A234F2F863F9D0076A047 /* Components */,
+				746A23512F863F9D0076A047 /* Home */,
+				746A23542F863F9D0076A047 /* Matches */,
+				746A23562F863F9D0076A047 /* Onboarding */,
+				746A23582F863F9D0076A047 /* Schedule */,
+				746A235A2F863F9D0076A047 /* Settings */,
+				746A235D2F863F9D0076A047 /* Stats */,
+				746A235F2F863F9D0076A047 /* Team */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		746A236B2F863F9D0076A047 /* FootPlan */ = {
+			isa = PBXGroup;
+			children = (
+				746A23452F863F9D0076A047 /* Helpers */,
+				746A23472F863F9D0076A047 /* Models */,
+				746A23492F863F9D0076A047 /* ViewModels */,
+				746A23602F863F9D0076A047 /* Views */,
+				746A23612F863F9D0076A047 /* AppDelegate.swift */,
+				746A23622F863F9D0076A047 /* Assets.xcassets */,
+				746A23632F863F9D0076A047 /* ContentView.swift */,
+				746A23642F863F9D0076A047 /* Info.plist */,
+				746A23662F863F9D0076A047 /* LaunchScreen.storyboard */,
+				746A23682F863F9D0076A047 /* Main.storyboard */,
+				746A23692F863F9D0076A047 /* SceneDelegate.swift */,
+				746A236A2F863F9D0076A047 /* ViewController.swift */,
+			);
+			path = FootPlan;
+			sourceTree = "<group>";
+		};
+		B8D140BB78C8CED31BAAFF44 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				90D685C68C60724F3BD2D757 /* Pods-FootPlan.debug.xcconfig */,
+				6697DAA25BAC1957B0707396 /* Pods-FootPlan.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		DA772D2F6BFE7F30A83C850F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FD9D0C2CD3F96A6C0615E482 /* Pods_FootPlan.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -65,6 +254,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 744B28D62F7BAF0A00F2A8EB /* Build configuration list for PBXNativeTarget "FootPlan" */;
 			buildPhases = (
+				5EAD2FFDBAD66219F69AC682 /* [CP] Check Pods Manifest.lock */,
 				744B28BF2F7BAF0800F2A8EB /* Sources */,
 				744B28C02F7BAF0800F2A8EB /* Frameworks */,
 				744B28C12F7BAF0800F2A8EB /* Resources */,
@@ -73,12 +263,7 @@
 			);
 			dependencies = (
 			);
-			fileSystemSynchronizedGroups = (
-				744B28C52F7BAF0800F2A8EB /* FootPlan */,
-			);
 			name = FootPlan;
-			packageProductDependencies = (
-			);
 			productName = FootPlan;
 			productReference = 744B28C32F7BAF0800F2A8EB /* FootPlan.app */;
 			productType = "com.apple.product-type.application";
@@ -99,6 +284,7 @@
 				};
 			};
 			buildConfigurationList = 744B28BE2F7BAF0800F2A8EB /* Build configuration list for PBXProject "FootPlan" */;
+			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -106,8 +292,6 @@
 				Base,
 			);
 			mainGroup = 744B28BA2F7BAF0800F2A8EB;
-			minimizedProjectReferenceProxies = 1;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 744B28C42F7BAF0800F2A8EB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -122,24 +306,93 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				746A23812F863F9D0076A047 /* Assets.xcassets in Resources */,
+				746A23832F863F9D0076A047 /* LaunchScreen.storyboard in Resources */,
+				746A23842F863F9D0076A047 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		5EAD2FFDBAD66219F69AC682 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FootPlan-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		744B28BF2F7BAF0800F2A8EB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				746A236C2F863F9D0076A047 /* AppLinks.swift in Sources */,
+				746A236D2F863F9D0076A047 /* FormattingHelpers.swift in Sources */,
+				746A236E2F863F9D0076A047 /* FootPlanModels.swift in Sources */,
+				746A236F2F863F9D0076A047 /* FootPlanViewModel.swift in Sources */,
+				746A23702F863F9D0076A047 /* CalendarView.swift in Sources */,
+				746A23712F863F9D0076A047 /* DesignSystem.swift in Sources */,
+				746A23722F863F9D0076A047 /* StatAndMatchComponents.swift in Sources */,
+				746A23732F863F9D0076A047 /* TagsAndTeamComponents.swift in Sources */,
+				746A23742F863F9D0076A047 /* HomeView.swift in Sources */,
+				746A23752F863F9D0076A047 /* AddMatchView.swift in Sources */,
+				746A23762F863F9D0076A047 /* MatchDetailView.swift in Sources */,
+				746A23772F863F9D0076A047 /* OnboardingView.swift in Sources */,
+				746A23782F863F9D0076A047 /* ScheduleView.swift in Sources */,
+				746A23792F863F9D0076A047 /* SettingsView.swift in Sources */,
+				746A237A2F863F9D0076A047 /* HeadToHeadView.swift in Sources */,
+				746A237B2F863F9D0076A047 /* PlayersStatsView.swift in Sources */,
+				746A237C2F863F9D0076A047 /* FavoriteTeamView.swift in Sources */,
+				746A237D2F863F9D0076A047 /* AppDelegate.swift in Sources */,
+				746A237E2F863F9D0076A047 /* ContentView.swift in Sources */,
+				746A237F2F863F9D0076A047 /* SceneDelegate.swift in Sources */,
+				746A23802F863F9D0076A047 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXVariantGroup section */
+		746A23662F863F9D0076A047 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				746A23652F863F9D0076A047 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		746A23682F863F9D0076A047 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				746A23672F863F9D0076A047 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
 /* Begin XCBuildConfiguration section */
 		744B28D72F7BAF0A00F2A8EB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 90D685C68C60724F3BD2D757 /* Pods-FootPlan.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -147,30 +400,37 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FootPlan/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = FootPlan;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mycompany.FootPlan;
+				PRODUCT_BUNDLE_IDENTIFIER = com.leo.f00tpl4n;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		744B28D82F7BAF0A00F2A8EB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6697DAA25BAC1957B0707396 /* Pods-FootPlan.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -178,25 +438,31 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FootPlan/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = FootPlan;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mycompany.FootPlan;
+				PRODUCT_BUNDLE_IDENTIFIER = com.leo.f00tpl4n;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
