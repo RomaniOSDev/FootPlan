@@ -11,12 +11,13 @@ import SwiftUI
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
-
+    private var footPlanShowcaseCoordinator: FootPlanShowcaseCoordinator?
 
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
-        guard let windowScene = (scene as? UIWindowScene) else {return}
+        guard let windowScene = (scene as? UIWindowScene) else { return }
         window = UIWindow(windowScene: windowScene)
-        window?.rootViewController = UIHostingController(rootView: ContentView())
+        footPlanShowcaseCoordinator = FootPlanShowcaseCoordinator()
+        window?.rootViewController = footPlanShowcaseCoordinator?.makeEntryHostController()
         window?.makeKeyAndVisible()
     }
 
