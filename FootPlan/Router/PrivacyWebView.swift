@@ -1,25 +1,28 @@
 //
 //  PrivacyWebView.swift
-//  FootPlan
+//  101RoastLog
+//
+//  Created by Ethit Hu on 19.03.2026.
 //
 
 import SwiftUI
 import WebKit
 
-struct FootPlanInlineBrowsingSurface: View {
+struct PrivacyWebView: View {
     let urlString: String
     var onFailure: () -> Void
     var onSuccess: (() -> Void)? = nil
-
+    
     @State private var webView: WKWebView = WKWebView()
     @State private var canGoBack: Bool = false
     @State private var isLoading: Bool = true
-
+    
     var body: some View {
         ZStack {
             Color.black.ignoresSafeArea()
-
+            
             VStack(spacing: 0) {
+                // Navigation Bar
                 HStack {
                     Button(action: {
                         webView.goBack()
@@ -31,9 +34,9 @@ struct FootPlanInlineBrowsingSurface: View {
                             .padding(.horizontal)
                     }
                     .disabled(!canGoBack)
-
+                    
                     Spacer()
-
+                    
                     Button(action: {
                         webView.reload()
                     }) {
@@ -46,8 +49,9 @@ struct FootPlanInlineBrowsingSurface: View {
                 }
                 .frame(height: 60)
                 .background(Color.black)
-
-                FootPlanWKHostAdapter(
+                
+                // WebView
+                WebViewRepresentable(
                     webView: webView,
                     urlString: urlString,
                     canGoBack: $canGoBack,
@@ -58,7 +62,8 @@ struct FootPlanInlineBrowsingSurface: View {
             }
             .ignoresSafeArea()
             .statusBar(hidden: true)
-
+            
+            // Loading Indicator
             if isLoading {
                 ZStack {
                     Color.black.opacity(0.4)
@@ -69,66 +74,78 @@ struct FootPlanInlineBrowsingSurface: View {
                 }
             }
         }
-
+        
     }
 }
 
-struct FootPlanWKHostAdapter: UIViewRepresentable {
+// MARK: - UIViewRepresentable
+struct WebViewRepresentable: UIViewRepresentable {
     let webView: WKWebView
     let urlString: String
     @Binding var canGoBack: Bool
     @Binding var isLoading: Bool
     var onFailure: () -> Void
     var onSuccess: (() -> Void)?
-
+    
     func makeUIView(context: Context) -> WKWebView {
+        // Configuration
         webView.navigationDelegate = context.coordinator
         webView.uiDelegate = context.coordinator
-
+        
+        // Fix for "Gray Bottom" / Safe Area issues
         webView.scrollView.contentInsetAdjustmentBehavior = .never
         webView.backgroundColor = .black
         webView.isOpaque = false
 
         webView.configuration.defaultWebpagePreferences.allowsContentJavaScript = true
         webView.allowsBackForwardNavigationGestures = true
-
+        
+        // Load initial URL
         if let url = URL(string: urlString) {
+            print("🌐 WebView: LOADING URL: \(url.absoluteString)")
             let request = URLRequest(url: url)
             webView.load(request)
         }
-
+        
         return webView
     }
-
-    func updateUIView(_ uiView: WKWebView, context: Context) {}
-
-    func makeCoordinator() -> FootPlanWKNavigationRelay {
-        FootPlanWKNavigationRelay(parent: self)
+    
+    func updateUIView(_ uiView: WKWebView, context: Context) {
+        // Updates handled by coordinator state
     }
-
-    final class FootPlanWKNavigationRelay: NSObject, WKNavigationDelegate, WKUIDelegate {
-        var parent: FootPlanWKHostAdapter
+    
+    func makeCoordinator() -> Coordinator {
+        Coordinator(parent: self)
+    }
+    
+    class Coordinator: NSObject, WKNavigationDelegate, WKUIDelegate {
+        var parent: WebViewRepresentable
         private var failureCalled = false
-
-        init(parent: FootPlanWKHostAdapter) {
+        
+        init(parent: WebViewRepresentable) {
             self.parent = parent
         }
-
+        
+        // MARK: - WKUIDelegate (Handle Popups / window.open)
         func webView(_ webView: WKWebView, createWebViewWith configuration: WKWebViewConfiguration, for navigationAction: WKNavigationAction, windowFeatures: WKWindowFeatures) -> WKWebView? {
+            // Intercept target="_blank" or window.open
             if navigationAction.targetFrame == nil {
                 webView.load(navigationAction.request)
             }
             return nil
         }
-
+        
+        // Handle HTTP Response Codes
         func webView(_ webView: WKWebView, decidePolicyFor navigationResponse: WKNavigationResponse, decisionHandler: @escaping (WKNavigationResponsePolicy) -> Void) {
             if let httpResponse = navigationResponse.response as? HTTPURLResponse {
-                if FootPlanPreferenceLedger.primaryLedger.savedUrl == nil && !failureCalled {
+                // Only check for failure if we haven't locked in yet (Initial Check)
+                if PersistenceManager.shared.savedUrl == nil && !failureCalled {
                     if (400...599).contains(httpResponse.statusCode) {
                         failureCalled = true
-                        FootPlanPreferenceLedger.primaryLedger.hasShownContentView = true
+                        // Устанавливаем флаг, что ContentView был показан
+                        PersistenceManager.shared.hasShownContentView = true
                         decisionHandler(.cancel)
-
+                        
                         DispatchQueue.main.async {
                             self.parent.onFailure()
                         }
@@ -138,64 +155,64 @@ struct FootPlanWKHostAdapter: UIViewRepresentable {
             }
             decisionHandler(.allow)
         }
-
+        
         func webView(_ webView: WKWebView, decidePolicyFor navigationAction: WKNavigationAction, decisionHandler: @escaping (WKNavigationActionPolicy) -> Void) {
             if let url = navigationAction.request.url {
-                let externalSchemes = [
-                    FootPlanRouterOpaqueText.urlSchemeMailto,
-                    FootPlanRouterOpaqueText.urlSchemeTel,
-                    FootPlanRouterOpaqueText.urlSchemeSms
-                ]
-                if let scheme = url.scheme, externalSchemes.contains(scheme) {
-                    if UIApplication.shared.canOpenURL(url) {
-                        UIApplication.shared.open(url)
-                    }
-                    decisionHandler(.cancel)
-                    return
-                }
+                 // Open mailto, tel, etc. externally
+                 if ["mailto", "tel", "sms"].contains(url.scheme) {
+                     if UIApplication.shared.canOpenURL(url) {
+                         UIApplication.shared.open(url)
+                     }
+                     decisionHandler(.cancel)
+                     return
+                 }
             }
             decisionHandler(.allow)
         }
-
+        
         func webView(_ webView: WKWebView, didStartProvisionalNavigation navigation: WKNavigation!) {
             parent.isLoading = true
         }
-
+        
         func webView(_ webView: WKWebView, didFinish navigation: WKNavigation!) {
             parent.canGoBack = webView.canGoBack
             parent.isLoading = false
 
-            if FootPlanPreferenceLedger.primaryLedger.savedUrl == nil {
+            // Persist LastUrl only after a real document load (not after AppRouter HEAD check).
+            if PersistenceManager.shared.savedUrl == nil {
                 if let currentUrl = webView.url?.absoluteString {
-                    FootPlanPreferenceLedger.primaryLedger.savedUrl = currentUrl
-                    FootPlanPreferenceLedger.primaryLedger.hasSuccessfulWebViewLoad = true
+                    PersistenceManager.shared.savedUrl = currentUrl
+                    PersistenceManager.shared.hasSuccessfulWebViewLoad = true
                     DispatchQueue.main.async {
                         self.parent.onSuccess?()
                     }
                 }
             } else {
-                FootPlanPreferenceLedger.primaryLedger.hasSuccessfulWebViewLoad = true
+                PersistenceManager.shared.hasSuccessfulWebViewLoad = true
                 DispatchQueue.main.async {
                     self.parent.onSuccess?()
                 }
             }
         }
-
+        
         func webView(_ webView: WKWebView, didFailProvisionalNavigation navigation: WKNavigation!, withError error: Error) {
             parent.isLoading = false
-
-            if FootPlanPreferenceLedger.primaryLedger.savedUrl == nil && !failureCalled {
+            _ = error.localizedDescription
+            
+            // If initial load fails, trigger onFailure (only once)
+            if PersistenceManager.shared.savedUrl == nil && !failureCalled {
                 failureCalled = true
-
-                FootPlanPreferenceLedger.primaryLedger.hasShownContentView = true
+                
+                PersistenceManager.shared.hasShownContentView = true
                 DispatchQueue.main.async {
                     self.parent.onFailure()
                 }
             }
         }
-
+        
         func webView(_ webView: WKWebView, didFail navigation: WKNavigation!, withError error: Error) {
             parent.isLoading = false
+            _ = error.localizedDescription
         }
     }
 }

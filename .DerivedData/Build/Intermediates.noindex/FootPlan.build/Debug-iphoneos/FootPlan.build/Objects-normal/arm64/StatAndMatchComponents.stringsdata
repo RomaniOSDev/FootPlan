@@ -1,0 +1,24 @@
+{
+  "source": "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Components/StatAndMatchComponents.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld:%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 75
+        }
+      }
+    ]
+  },
+  "version": 1
+}

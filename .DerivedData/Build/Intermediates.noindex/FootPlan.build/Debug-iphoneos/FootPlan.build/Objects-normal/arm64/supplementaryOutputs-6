@@ -1,0 +1,23 @@
+{
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/AppDelegate.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Stats/PlayersStatsView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView.swiftdeps"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Team/FavoriteTeamView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView.swiftdeps"
+  }
+}

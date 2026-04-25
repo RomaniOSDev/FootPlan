@@ -1,0 +1,56 @@
+{
+  "source": "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Team",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Players",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Head-to-head",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Calendar",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 51
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Calendar/CalendarView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Calendar",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 43
+        }
+      }
+    ]
+  },
+  "version": 1
+}

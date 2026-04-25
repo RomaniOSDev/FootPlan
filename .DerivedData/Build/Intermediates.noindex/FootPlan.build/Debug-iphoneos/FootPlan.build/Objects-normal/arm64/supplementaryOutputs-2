@@ -1,0 +1,23 @@
+{
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/ViewModels/FootPlanViewModel.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel.swiftdeps"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Calendar/CalendarView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView.swiftdeps"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Components/DesignSystem.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem.swiftdeps"
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "" : {
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlan-primary.dia",
+    "emit-module-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlan-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlan-primary-emit-module.dia",
+    "pch" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlan-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlan-primary.swiftdeps"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/AppDelegate.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/ContentView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Helpers/AppLinks.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppLinks.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppLinks.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppLinks.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppLinks.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppLinks.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppLinks.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppLinks.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppLinks~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Helpers/FormattingHelpers.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FormattingHelpers.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FormattingHelpers.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FormattingHelpers.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FormattingHelpers.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FormattingHelpers.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FormattingHelpers.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FormattingHelpers.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FormattingHelpers~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Models/FootPlanModels.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanModels.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanModels.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanModels.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanModels.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanModels.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanModels.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanModels.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanModels~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Router/AppRouter.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppRouter.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppRouter.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppRouter.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppRouter.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppRouter.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppRouter.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppRouter.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AppRouter~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Router/PersistenceManager.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PersistenceManager.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PersistenceManager.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PersistenceManager.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PersistenceManager.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PersistenceManager.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PersistenceManager.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PersistenceManager.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PersistenceManager~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Router/PrivacyWebView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PrivacyWebView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PrivacyWebView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PrivacyWebView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PrivacyWebView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PrivacyWebView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PrivacyWebView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PrivacyWebView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PrivacyWebView~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Router/SaveService.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SaveService.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SaveService.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SaveService.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SaveService.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SaveService.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SaveService.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SaveService.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SaveService~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Router/StartMainView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StartMainView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StartMainView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StartMainView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StartMainView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StartMainView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StartMainView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StartMainView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StartMainView~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/SceneDelegate.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/ViewController.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/ViewModels/FootPlanViewModel.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FootPlanViewModel~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Calendar/CalendarView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/CalendarView~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Components/DesignSystem.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/DesignSystem~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Components/StatAndMatchComponents.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StatAndMatchComponents.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StatAndMatchComponents.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StatAndMatchComponents.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StatAndMatchComponents.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StatAndMatchComponents.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StatAndMatchComponents.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StatAndMatchComponents.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/StatAndMatchComponents~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Components/TagsAndTeamComponents.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/TagsAndTeamComponents.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/TagsAndTeamComponents.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/TagsAndTeamComponents.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/TagsAndTeamComponents.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/TagsAndTeamComponents.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/TagsAndTeamComponents.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/TagsAndTeamComponents.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/TagsAndTeamComponents~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Home/HomeView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Matches/AddMatchView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AddMatchView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AddMatchView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AddMatchView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AddMatchView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AddMatchView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AddMatchView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AddMatchView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/AddMatchView~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Matches/MatchDetailView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/MatchDetailView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/MatchDetailView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/MatchDetailView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/MatchDetailView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/MatchDetailView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/MatchDetailView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/MatchDetailView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/MatchDetailView~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Onboarding/OnboardingView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/OnboardingView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/OnboardingView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/OnboardingView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/OnboardingView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/OnboardingView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/OnboardingView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/OnboardingView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/OnboardingView~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Schedule/ScheduleView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ScheduleView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ScheduleView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ScheduleView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ScheduleView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ScheduleView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ScheduleView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ScheduleView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/ScheduleView~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Settings/SettingsView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Stats/HeadToHeadView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HeadToHeadView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HeadToHeadView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HeadToHeadView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HeadToHeadView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HeadToHeadView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HeadToHeadView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HeadToHeadView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/HeadToHeadView~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Stats/PlayersStatsView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/PlayersStatsView~partial.swiftmodule"
+  },
+  "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Team/FavoriteTeamView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView.dia",
+    "index-unit-output-path" : "/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView.o",
+    "llvm-bc" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView.bc",
+    "object" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView.swiftdeps",
+    "swiftmodule" : "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/.DerivedData/Build/Intermediates.noindex/FootPlan.build/Debug-iphoneos/FootPlan.build/Objects-normal/arm64/FavoriteTeamView~partial.swiftmodule"
+  }
+}

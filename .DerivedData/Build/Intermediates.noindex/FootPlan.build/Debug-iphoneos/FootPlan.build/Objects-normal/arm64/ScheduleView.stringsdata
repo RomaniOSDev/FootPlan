@@ -1,0 +1,184 @@
+{
+  "source": "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Schedule/ScheduleView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Match schedule",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Season %lld/%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upcoming",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Played",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "All",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "All competitions",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Competition",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "All venues",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Venue",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "By date",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "By opponent",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorites first",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sort",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorite",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "VS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "OUR",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 193
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 196
+        }
+      },
+      {
+        "comment": "",
+        "key": "?",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 196
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 211
+        }
+      },
+      {
+        "comment": "",
+        "key": "?",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 211
+        }
+      }
+    ]
+  },
+  "version": 1
+}

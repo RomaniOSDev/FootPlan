@@ -1,11 +1,15 @@
 //
 //  StartMainView.swift
-//  FootPlan
+//  101RoastLog
+//
+//  Created by Ethit Hu on 19.03.2026.
 //
 
 import SwiftUI
 
-struct FootPlanDualArcSpinner: View {
+// MARK: - Two rotating segments loader (example style)
+
+struct NewLoadTwoCircleView: View {
     var progress: Double
     @State private var rotationAngle: Double = 0.0
     var width: CGFloat = 72
@@ -48,7 +52,7 @@ struct FootPlanDualArcSpinner: View {
             segmentArc(gradient: tailGradient, lineW: lineW, angle: rotationAngle + 180)
 
             if progress > 0.5 {
-                FootPlanSuccessOrbCluster()
+                EndLoadingIndicator()
             }
         }
         .onAppear {
@@ -77,7 +81,7 @@ struct FootPlanDualArcSpinner: View {
     }
 }
 
-struct FootPlanSuccessOrbCluster: View {
+struct EndLoadingIndicator: View {
     private let greenColor = Color.green
 
     var body: some View {
@@ -106,14 +110,20 @@ struct FootPlanSuccessOrbCluster: View {
     }
 }
 
-struct FootPlanGateSplashScene: View {
+// MARK: - Start Main View
+
+struct StartMainView: View {
+    private let splashText = String(decoding: [76, 111, 97, 100, 105, 110, 103, 46, 46, 46], as: UTF8.self)
+
     var body: some View {
         ZStack {
+            // Background image
             Image(.lanchscr)
                 .resizable()
                 .aspectRatio(contentMode: .fill)
                 .ignoresSafeArea()
 
+            // Dark overlay for contrast and text readability
             LinearGradient(
                 colors: [
                     Color.black.opacity(0.35),
@@ -127,9 +137,9 @@ struct FootPlanGateSplashScene: View {
             VStack(spacing: 24) {
                 Spacer()
 
-                FootPlanDualArcSpinner(progress: 0)
+                NewLoadTwoCircleView(progress: 0)
 
-                Text(FootPlanRouterOpaqueText.splashStatusLine)
+                Text(splashText)
                     .font(.system(size: 17, weight: .medium))
                     .foregroundColor(.white)
                     .shadow(color: .black.opacity(0.5), radius: 2, x: 0, y: 1)
@@ -142,5 +152,5 @@ struct FootPlanGateSplashScene: View {
 }
 
 #Preview {
-    FootPlanGateSplashScene()
+    StartMainView()
 }

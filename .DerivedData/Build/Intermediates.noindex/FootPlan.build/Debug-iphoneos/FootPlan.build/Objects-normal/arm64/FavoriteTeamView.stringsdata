@@ -1,0 +1,224 @@
+{
+  "source": "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Team/FavoriteTeamView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Favorite team",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Set favorite team",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Teams",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add team",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Matches",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Goals",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Win rate",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 130
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit team",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 198
+        }
+      },
+      {
+        "comment": "",
+        "key": "Team",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 190
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 191
+        }
+      },
+      {
+        "comment": "",
+        "key": "Short name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "Emoji logo",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 193
+        }
+      },
+      {
+        "comment": "",
+        "key": "City",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stadium",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 195
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 206
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add team",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 265
+        }
+      },
+      {
+        "comment": "",
+        "key": "New team",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 257
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 258
+        }
+      },
+      {
+        "comment": "",
+        "key": "Short name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 259
+        }
+      },
+      {
+        "comment": "",
+        "key": "Emoji logo",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 260
+        }
+      },
+      {
+        "comment": "",
+        "key": "City",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 261
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stadium",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 262
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 271
+        }
+      }
+    ]
+  },
+  "version": 1
+}

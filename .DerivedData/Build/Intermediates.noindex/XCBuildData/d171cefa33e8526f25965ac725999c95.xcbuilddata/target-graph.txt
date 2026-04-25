@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'FootPlan' in project 'FootPlan' (no dependencies)

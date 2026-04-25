@@ -1,0 +1,224 @@
+{
+  "source": "/Users/roman/Documents/XcodeProgramm/ 10 comand Maks/FootPlan/FootPlan/Views/Matches/AddMatchView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New match",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 193
+        }
+      },
+      {
+        "comment": "",
+        "key": "Opponent",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Score",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Goals",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Assists",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notes",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 150
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tags",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date & time",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Competition",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Venue",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Team",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Team name",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Short name",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "➕ New team",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Our team",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "0",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Opponent",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "0",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add goal",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Player",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "min",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add assist",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 143
+        }
+      },
+      {
+        "comment": "",
+        "key": "Player",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 126
+        }
+      },
+      {
+        "comment": "",
+        "key": "min",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 129
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorite",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 203
+        }
+      }
+    ]
+  },
+  "version": 1
+}
